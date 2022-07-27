@@ -105,6 +105,7 @@ p {
     padding: 1.5em;
     width: 25%;
     height: 0 auto;
+    border-radius: 5px;
 }
 
 iframe {
