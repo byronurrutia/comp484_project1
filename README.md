@@ -2,12 +2,12 @@
 
 #### Required Elements:
 
-- <data-\*>: located in index.html(lines: 110,115,120)
-- <kbd>: located in index.html(lines: 158, 159)/
+- data: located in index.html(lines: 110,115,120)
+- kbd: located in index.html(lines: 158, 159)/
   linear.html(lines: 77,78)/
   tactile.html(lines: 70, 71)/
   clicky.html(lines: 66,67)
-- <del> located in linear.html(lines: 35)
+- del: located in linear.html(lines: 35)
 
 ####
 
