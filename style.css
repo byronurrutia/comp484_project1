@@ -61,7 +61,7 @@ h1 {
     width: 60%;
 }
 
-p {
+p, data, .datalist{
     color: #646669;
     font: 1.2em sans-serif;
     text-align: center;
@@ -69,6 +69,10 @@ p {
     line-height: 1.8;
     margin-bottom: 1em;
     width: 60%;
+}
+
+ul {
+    list-style-type: none;
 }
 
 /*source: https://www.youtube.com/watch?v=Trw_9lisYVY&t=281s */
